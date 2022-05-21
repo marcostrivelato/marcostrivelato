@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marcostrivelato
-- 👀 I’m interested in learning about the world, but specially in data analysis and data science at the moment
+- 👀 I’m interested in learning about the world and how we interact with it
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on anything that can teach me somthing new
 
